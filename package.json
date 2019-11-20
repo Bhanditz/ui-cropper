@@ -45,7 +45,7 @@
     "dev": "gulp"
   },
   "dependencies": {
-    "angular": ">=1.4.0"
+    "angular": ">=1.7.9"
   },
   "devDependencies": {
     "connect-livereload": "^0.6.0",
